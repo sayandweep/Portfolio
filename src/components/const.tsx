@@ -1,5 +1,5 @@
 export const repos = [
-  {name: 'humanizer', about: 'Claude Skill', link: 'https://github.com/blader/humanizer'}
+  {name: 'humanizer', about: 'Claude Skill', link: 'https://github.com/blader/humanizer'},
   {name: 'gif.js', about: 'JavaScript GIF encoding library', link: 'https://github.com/jnordberg/gif.js'}
 ]
 
