@@ -68,6 +68,10 @@ body {
   margin: 0;
   font-family: "Bricolage Grotesque", sans-serif !important;
   font-weight: 400;
+  background: #070809;
+  width: 100%;
+  box-sizing: border-box;
+  overflow-x: hidden;
 }
 
 .font-2{

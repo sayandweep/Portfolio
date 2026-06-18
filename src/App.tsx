@@ -9,7 +9,7 @@ function App() {
           Evnin <br />Agency
         <div className="degnE"><img src="/evnin.webp" alt="ev-logo" /></div>
         </h1>
-        <div className="reviews w-full">
+        <div className="reviews overflow-hidden w-full">
           <div className='maRq'>
             {reviews.map(review => 
             <div className='block whitespace-break-spaces mx-1 text-[.7em] px-4 rounded-md border border-zinc-800 font-1 shadow-2xl text-left w-50' key={review.id}>
